@@ -6,4 +6,4 @@ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+![image](https://github.com/user-attachments/assets/62cd6ca3-a924-4248-baf3-47e86a5f894b)
